@@ -1,0 +1,7 @@
+{
+  "name": "appList",
+  "displayName": "appList",
+  "plugins": [
+    ["relay", {"schema": "src/data/schema.json"}]
+  ],
+}
